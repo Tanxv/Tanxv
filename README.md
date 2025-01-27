@@ -3,10 +3,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&pause=1000&color=244AF7&center=true&random=true&width=435&lines=Student+of+Computer+Engineering+;Competitive+Programmer;Global+Jam+Enjoyer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 a snake eating my contributions
 	
 <p align = "center">
-	![snake gif](https://github.com/Tanxv/Tanxv/blob/output/github-snake-dark.svg)
+	<img src ="https://github.com/Tanxv/Tanxv/blob/output/github-snake-dark.svg"/>
 </p>
 	
 <!--
